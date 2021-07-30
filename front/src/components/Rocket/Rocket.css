@@ -1,0 +1,9 @@
+.Rocket {
+  position: fixed;
+  width: 65px;
+  top: 50%;
+  left: 50%;
+  margin-top: 100px;
+  margin-left: -27px;
+  transform: rotate(-45deg);
+}

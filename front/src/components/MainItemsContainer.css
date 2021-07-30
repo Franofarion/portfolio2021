@@ -1,25 +1,25 @@
 .main_items_container {
-    width: 100vw;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: fixed;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
 }
-  
+
 .main_items_container .main_items_container_child {
-    width: 50%;
-    height: 100vh;
+  width: 100%;
+  height: 100vh;
 }
-  
+
 .container-content {
-    display: flex;
-    flex-direction: column-reverse;
+  display: flex;
+  flex-direction: column-reverse;
 }
 
 .container-content-block {
-    height: 100vh;
-    border: 1px solid black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  height: 100vh;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
